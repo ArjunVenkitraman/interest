@@ -1,1 +1,2 @@
 example for stash
+some changes made
